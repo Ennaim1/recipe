@@ -1,7 +1,21 @@
-Strawberry cake
+My favourite receipt: Strawberry cake
 
 Edited by Mianne Lee
 
 This strawberry cake is easy to make from scratch with strawberry puree and strawberry gelatin.
+
+Prep Time:
+15 mins
+Cook Time:
+25 mins
+Additional Time:
+10 mins
+Total Time:
+50 mins
+Servings:
+14
+Yield:
+1 2-layer 9-inch cake
+
 
 URL: https://www.allrecipes.com/recipe/60564/strawberry-cake-from-scratch/
