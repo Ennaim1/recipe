@@ -1,3 +1,5 @@
+### This is a REMOTE change :O
+
 My favourite receipt: Strawberry cake
 line 2 changed remotely
 Edited by Mianne Lee
@@ -24,3 +26,5 @@ URL: https://www.allrecipes.com/recipe/60564/strawberry-cake-from-scratch/
 last line changed locally
 =======
 >>>>>>> ef9c50c5e5598b02dbce82019e91770bcaf7609d
+>>>>>>>
+>>>>>>> ### This is a REMOTE change :O
