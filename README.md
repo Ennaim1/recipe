@@ -1,5 +1,5 @@
 My favourite receipt: Strawberry cake
-
+line 2 changed remotely
 Edited by Mianne Lee
 
 This strawberry cake is easy to make from scratch with strawberry puree and strawberry gelatin.
@@ -19,5 +19,8 @@ Yield:
 
 
 URL: https://www.allrecipes.com/recipe/60564/strawberry-cake-from-scratch/
+<<<<<<< HEAD
 
 last line changed locally
+=======
+>>>>>>> ef9c50c5e5598b02dbce82019e91770bcaf7609d
