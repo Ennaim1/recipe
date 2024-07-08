@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 ### This is a LOCAL change :)
+### This is a REMOTE change :O 2
 =======
 
 >>>>>>> 404ed616da64e2431a2f9aa09fdbb86b10af75de
@@ -37,3 +38,5 @@ last line changed locally
 >>>>>>>
 >>>>>>> ### This is a REMOTE change :O
 >>>>>>> 404ed616da64e2431a2f9aa09fdbb86b10af75de
+>>>>>>>
+>>>>>>>### This is a REMOTE change :O 2
