@@ -6,9 +6,9 @@
 
 >>>>>>> 404ed616da64e2431a2f9aa09fdbb86b10af75de
 
-My favourite receipt: Strawberry cake
+#My favourite receipt: Strawberry cake
 line 2 changed remotely
-Edited by Mianne Lee
+###Edited by Mianne Lee
 
 This strawberry cake is easy to make from scratch with strawberry puree and strawberry gelatin.
 
