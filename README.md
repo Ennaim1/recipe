@@ -12,17 +12,17 @@ line 2 changed remotely
 
 This strawberry cake is easy to make from scratch with strawberry puree and strawberry gelatin.
 
-Prep Time:
+*Prep Time:
 15 mins
-Cook Time:
+*Cook Time:
 25 mins
-Additional Time:
+*Additional Time:
 10 mins
-Total Time:
+*Total Time:
 50 mins
-Servings:
+*Servings:
 14
-Yield:
+*Yield:
 1 2-layer 9-inch cake
 
 
